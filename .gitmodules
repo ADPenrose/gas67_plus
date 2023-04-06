@@ -1,0 +1,3 @@
+[submodule "kicad_files/libraries/marbastlib"]
+	path = kicad_files/libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
