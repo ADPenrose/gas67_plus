@@ -1,3 +1,9 @@
 [submodule "kicad_files/libraries/marbastlib"]
 	path = kicad_files/libraries/marbastlib
 	url = https://github.com/ebastler/marbastlib.git
+[submodule "kicad_files/libraries/acheron_MXH_metalrings.pretty"]
+	path = kicad_files/libraries/acheron_MXH_metalrings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_metalrings.pretty.git
+[submodule "kicad_files/libraries/penlib"]
+	path = kicad_files/libraries/penlib
+	url = https://github.com/ADPenrose/penlib.git
