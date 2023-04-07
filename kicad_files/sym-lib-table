@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "penlib-custom-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/penlib/symbols/penlib-custom-parts.kicad_sym")(options "")(descr ""))
+)
